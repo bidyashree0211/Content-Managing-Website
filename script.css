@@ -1,0 +1,25 @@
+
+  form {
+    display: grid;
+    gap: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  textarea {
+    width: 100%;
+    padding: 4px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #0f0f0f;
+    color: white;
+    border-style:double;
+    cursor: pointer;
+  }
+ 
+
